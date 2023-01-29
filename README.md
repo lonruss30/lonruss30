@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Lon Russel, a Junior .NET Developer with 6 months in software development.
+I'm Lon Russel, I graduated college in August 2022 and now I'm a Junior .NET Developer with 6 months in software development.
 
 ## Skills
 
