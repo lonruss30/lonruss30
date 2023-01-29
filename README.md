@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Lon Russel, a Junior .NET Developer with 6 months in software development.
+
+## Skills
+
+* C#, .NET framework, HTML, CSS, JavaScript, SQL, Angular
