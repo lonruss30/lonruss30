@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 I'm Lon Russel, I graduated college in August 2022 and now I'm a Junior .NET Developer with 6 months in software development.
 
-## Skills
+- 🔭 I’m currently working on SD Solutions I.T Outsourcing, Inc.
+- 🌱 I’m currently learning HTML, CSS, Vue.js
 
-* C#, .NET framework, HTML, CSS, JavaScript, SQL, Angular
+### Skills
+
+* C#, .NET framework, HTML, CSS, JavaScript, SQL, Angular, Vue.js
+
