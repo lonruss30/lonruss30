@@ -30,7 +30,7 @@ I'm Lon Russel, I graduated college in August 2022 and now I'm a Junior .NET Dev
 
 - 🔭 I’m currently working on **SD Solutions I.T Outsourcing, Inc.**
 
-- 🌱 I’m currently learning **Laravel and Vue.js**
+- 🌱 I’m currently learning **PHP, Laravel, and Vue.js**
 
 - 📫 How to reach me **qlonruss30@gmail.com**
 
