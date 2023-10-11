@@ -26,7 +26,6 @@ I'm Lon Russel, I graduated college in August 2022 and now I'm a Junior .NET Dev
 <h1 align="center">Hi 👋, I'm Lon Russel</h1>
 <h3 align="center">An entry-level developer from the Philippines</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonruss30" alt="lonruss30" /></a> </p>
 
 - 🔭 I’m currently working on **SD Solutions I.T Outsourcing, Inc.**
 
