@@ -24,14 +24,14 @@ I'm Lon Russel, I graduated college in August 2022 and now I'm a Junior .NET Dev
 * C#, .NET framework, HTML, CSS, JavaScript, SQL, Angular, Vue.js -->
 
 <h1 align="center">Hi 👋, I'm Lon Russel</h1>
-<h3 align="center">An entry-level developer from the Philippines</h3>
+<h3 align="center">A Software Engineer from the Philippines</h3>
 
 
-- 🔭 I’m currently working on **SD Solutions I.T Outsourcing, Inc.**
+- 🔭 I’m currently working on **Rising Tide Digital Inc.**
 
 - 🌱 I’m currently learning **PHP, Laravel, and Vue.js**
 
-- 📫 How to reach me **qlonruss30@gmail.com**
+- 📫 How to reach me ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
